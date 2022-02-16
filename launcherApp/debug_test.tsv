@@ -1,0 +1,86 @@
+Utterance	Frequency	GT
+Open YouTube	276889	[g:bixby.launcher.LaunchApplication] Open (YouTube)[v:bixby.launcher.ApplicationName]
+Turn off phone	266107	[g:viv.systemApp.PowerOff] Turn off (phone)[v:viv.systemApp.PowerOffDevice:Powerdevice]
+Open Spotify	229540	[g:bixby.launcher.LaunchApplication] Open (Spotify)[v:bixby.launcher.ApplicationName]
+Open Pandora	165672	[g:bixby.launcher.LaunchApplication] Open (Pandora)[v:bixby.launcher.ApplicationName]
+Play Pandora	158269	[g:bixby.launcher.LaunchApplication] Play (Pandora)[v:bixby.launcher.ApplicationName]
+Close all apps	110160	[g:bixby.launcher.CloseApplication] Close (all)[v:bixby.launcher.SelectedAll:true] apps
+Open Camera	96750	[g:bixby.launcher.LaunchApplication] Open (Camera)[v:bixby.launcher.ApplicationName]
+YouTube	90607	[g:bixby.launcher.LaunchApplication] (YouTube)[v:bixby.launcher.ApplicationName]
+Open	73502	[g:bixby.launcher.LaunchApplication] Open
+Open WhatsApp	61648	[g:bixby.launcher.LaunchApplication] Open (WhatsApp)[v:bixby.launcher.ApplicationName]
+Launch Assistant	54556	[g:bixby.launcher.LaunchApplication] Launch (Assistant)[v:bixby.launcher.ApplicationName]
+Open Facebook	54490	[g:bixby.launcher.LaunchApplication] Open (Facebook)[v:bixby.launcher.ApplicationName]
+Open Amazon Music	46158	[g:bixby.launcher.LaunchApplication] Open (Amazon Music)[v:bixby.launcher.ApplicationName]
+Open Google	41191	[g:bixby.launcher.LaunchApplication] Open (Google)[v:bixby.launcher.ApplicationName]
+Open Messenger	40945	[g:bixby.launcher.LaunchApplication] Open (Messenger)[v:bixby.launcher.ApplicationName]
+App	39404	
+Google	39267	[g:bixby.launcher.LaunchApplication] (Google)[v:bixby.launcher.ApplicationName]
+Open YouTube Music	38943	[g:bixby.launcher.LaunchApplication] Open (YouTube Music)[v:bixby.launcher.ApplicationName]
+Open Google Maps	38170	[g:bixby.launcher.LaunchApplication] Open (Google Maps)[v:bixby.launcher.ApplicationName]
+Open Snapchat	37929	[g:bixby.launcher.LaunchApplication] Open (Snapchat)[v:bixby.launcher.ApplicationName]
+Go to YouTube	36590	[g:bixby.launcher.LaunchApplication] Go to (YouTube)[v:bixby.launcher.ApplicationName]
+Open TikTok	36585	[g:bixby.launcher.LaunchApplication] Open (TikTok)[v:bixby.launcher.ApplicationName]
+Spotify	35514	[g:bixby.launcher.LaunchApplication] (Spotify)[v:bixby.launcher.ApplicationName]
+Open Netflix	35354	[g:bixby.launcher.LaunchApplication] Open (Netflix)[v:bixby.launcher.ApplicationName]
+Open calculator	35036	[g:bixby.launcher.LaunchApplication] Open (calculator)[v:bixby.launcher.ApplicationName]
+Open Gmail	34557	[g:bixby.launcher.LaunchApplication] Open (Gmail)[v:bixby.launcher.ApplicationName]
+Open Instagram	34385	[g:bixby.launcher.LaunchApplication] Open (Instagram)[v:bixby.launcher.ApplicationName]
+Open Calendar	34164	[g:bixby.launcher.LaunchApplication] Open (Calendar)[v:bixby.launcher.ApplicationName]
+Open Waze	33120	[g:bixby.launcher.LaunchApplication] Open (Waze)[v:bixby.launcher.ApplicationName]
+Open maps	32576	[g:bixby.launcher.LaunchApplication] Open (maps)[v:bixby.launcher.ApplicationName]
+Pandora	31710	[g:bixby.launcher.LaunchApplication] (Pandora)[v:bixby.launcher.ApplicationName]
+Camera	29479	[g:bixby.launcher.LaunchApplication] (Camera)[v:bixby.launcher.ApplicationName]
+Open phone	29226	[g:bixby.launcher.LaunchApplication] Open (phone)[v:bixby.launcher.ApplicationName]
+turn off phone	21475	[g:viv.systemApp.PowerOff] turn off (phone)[v:viv.systemApp.PowerOffDevice:Powerdevice]
+Turn off alarm	19048	[g:viv.clockApp.DisableAlarms] Turn off alarm
+Close all app	10934	[g:bixby.launcher.CloseApplication] Close (all)[v:bixby.launcher.SelectedAll:true] app
+Close app	10592	[g:bixby.launcher.CloseForegroundApplication] Close app
+Exit	6198	[g:bixby.launcher.CloseForegroundApplication] Exit
+Split screen	5468	[g:bixby.launcher.StartMultiWindow] (Split screen)[v:bixby.launcher.MultiOption:MultiWindow]
+Quit the current app	3613	[g:bixby.launcher.CloseForegroundApplication] Quit the current app
+Open current app as a pop-up	3608	[g:bixby.launcher.StartMultiWindow] Open current app as a (pop-up)[v:bixby.launcher.MultiOption:Popup]
+Close this app	3431	[g:bixby.launcher.CloseForegroundApplication] Close this app
+Apps	1850	
+Delete Bixby	1842	[g:bixby.launcher.NoActionDeleteApplication] Delete (Bixby)[v:bixby.launcher.ApplicationName]
+Uninstall Bixby	1225	[g:bixby.launcher.NoActionDeleteApplication] Uninstall (Bixby)[v:bixby.launcher.ApplicationName]
+Launch	921	[g:bixby.launcher.LaunchApplication] Launch
+Remove Bixby	893	[g:bixby.launcher.NoActionDeleteApplication] Remove (Bixby)[v:bixby.launcher.ApplicationName]
+View	859	
+Open apps	803	
+SHOW	701	
+Pull up	673	
+Open split screen	574	[g:bixby.launcher.StartMultiWindow] Open (split screen)[v:bixby.launcher.MultiOption:MultiWindow]
+delete bixby	348	[g:bixby.launcher.NoActionDeleteApplication] delete (bixby)[v:bixby.launcher.ApplicationName]
+Open my apps	298	
+Bixby delete	265	
+Update apps	236	[g:bixby.googlePlaystore.NoActionItems] Update apps
+Go to apps	231	
+End all recent apps	206	[g:bixby.launcher.CloseApplication] End (all)[v:bixby.launcher.SelectedAll:true] recent apps
+Open Recent Apps	204	[g:bixby.launcher.ShowRecentlyUsedApps] Open Recent Apps
+remove bixby	185	[g:bixby.launcher.NoActionDeleteApplication] remove (bixby)[v:bixby.launcher.ApplicationName]
+view active apps	185	[g:bixby.launcher.ShowRecentlyUsedApps] view active apps
+Bixby remove	174	
+Update my apps	159	[g:bixby.googlePlaystore.NoActionItems] Update my apps
+uninstall bixby	158	[g:bixby.launcher.NoActionDeleteApplication] uninstall (bixby)[v:bixby.launcher.ApplicationName]
+Applications	158	
+Show me my apps	139	
+recent apps	133	[g:bixby.launcher.ShowRecentlyUsedApps] recent apps
+Show me all my apps	129	
+Recent apps	123	[g:bixby.launcher.ShowRecentlyUsedApps] Recent apps
+Take me to my apps	117	
+Show all apps	111	
+Uninstall apps	111	[g:bixby.launcher.NoActionDeleteApplication] Uninstall apps
+Uninstall Spotify	108	[g:bixby.launcher.NoActionDeleteApplication] Uninstall (Spotify)[v:bixby.launcher.ApplicationName]
+Delete yourself	105	
+Uninstall Facebook	104	[g:bixby.launcher.NoActionDeleteApplication] Uninstall (Facebook)[v:bixby.launcher.ApplicationName]
+Bixby uninstall	101	[g:bixby.launcher.NoActionDeleteApplication] Bixby uninstall
+Delete my	92	
+Bixby delete my	79	[g:bixby.launcher.NoActionDeleteApplication] Bixby delete my
+delete Bixby	77	[g:bixby.launcher.NoActionDeleteApplication] delete (Bixby)[v:bixby.launcher.ApplicationName]
+Delete Bixby app	77	[g:bixby.launcher.NoActionDeleteApplication] Delete (Bixby)[v:bixby.launcher.ApplicationName] app
+Open YouTube	32	[g:bixby.launcher.LaunchApplication] Open (YouTube)[v:bixby.launcher.ApplicationName]
+Hi Bixby	28	"[g:viv.bixbyChat_EN.GreetingResponse,v:viv.bixbyChat_EN.GreetingKey:hi] Hi Bixby"
+Hey Bixby	28	"[g:viv.bixbyChat_EN.GreetingResponse,v:viv.bixbyChat_EN.GreetingKey:hi] Hey  Bixby"
+Bixby	26	"[g:viv.bixbyChat_EN.GreetingResponse,v:viv.bixbyChat_EN.GreetingKey:hi] Bixby"
+YouTube	26	[g:bixby.launcher.LaunchApplication] (YouTube)[v:bixby.launcher.ApplicationName]

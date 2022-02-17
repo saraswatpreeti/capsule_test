@@ -5,7 +5,7 @@ pd.set_option('display.max_columns', None)
 
 test_file=pd.read_csv('./debugoutput_final.tsv', sep='\t', index_col=False, names=["Utterance", "count", "GT","hypothesis"], header=0)
 #test_file.info.to_csv('./test_file.tsv', sep='\t', encoding='utf-8', index=False)
-print(test_file.info)
+print(test_file.info())
 #test_file.set_axis(['utterance', 'count', 'GT', 'hypothesis'], axis=1, inplace=True)
 #print(test_file.columns)
 #print(test_file.head())

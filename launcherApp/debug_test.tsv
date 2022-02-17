@@ -1,0 +1,5 @@
+Utterance	Frequency	LE_alignednl
+Open YouTube	276889	[g:bixby.launcher.LaunchApplication] Open (YouTube)[v:bixby.launcher.ApplicationName]
+Turn off phone	266107	[g:viv.systemApp.PowerOff] Turn off (phone)[v:viv.systemApp.PowerOffDevice:Powerdevice]
+Open Spotify	229540	[g:bixby.launcher.LaunchApplication] Open (Spotify)[v:bixby.launcher.ApplicationName]
+Open Pandora	165672	[g:bixby.launcher.LaunchApplication] Open (Pandora)[v:bixby.launcher.ApplicationName]

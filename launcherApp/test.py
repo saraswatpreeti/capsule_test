@@ -10,6 +10,7 @@ print(test_file.info())
 #print(test_file.columns)
 #print(test_file.head())
 #define conditions
+test_file['count'] = test_file['count'].astype(int) 
 test_file=test_file[test_file['GT'].notna()]
 test_file['hypothesis'].fillna('unhandled', inplace=True)
 test_file=test_file.loc[test_file['count']>10]
